@@ -7,7 +7,9 @@ My primary interests are in low-level programming, high performance computing, a
 ## Languages and Technologies
 
 ![python icon] ![cplusplus icon] ![c icon] ![java icon] ![js icon]
+
 ![linux icon] ![vscode icon] ![git icon] ![bash icon] ![google icon]
+
 ![aws icon] ![docker icon] ![github icon] ![jupyter icon]![rpi icon]
 
 
