@@ -10,7 +10,7 @@ My primary interests are in low-level programming, high performance computing, a
 
 ![linux icon] ![vscode icon] ![git icon] ![bash icon] ![google icon]
 
-![aws icon] ![docker icon] ![github icon] ![jupyter icon]![rpi icon]
+![aws icon] ![docker icon] ![github icon] ![jupyter icon] ![rpi icon]
 
 
 -----------------------------------
