@@ -1,8 +1,6 @@
 # tux2603
 
-Undergraduate Computer Engineering student and System Administrator at Wright State University.
-
-My primary interests are in low-level programming, high performance computing, and artificial intelligence.
+PhD student and graduate research assistant at Tennessee Technological University. My current interests are HPC and low level hardware design and optimization, which I'm combining for my research. We are currently researching options to greatly increase the power efficiency of large scale data processing in embedded systems, with the end goal of delivering HPC-level performance in a mobile power budget.
 
 ## Languages and Technologies
 
