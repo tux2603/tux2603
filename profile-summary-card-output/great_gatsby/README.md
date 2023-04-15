@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/tux2603/tux2603/master/profile-summary-card-output/great_gatsby/4-productive-time.svg)
+```
+
+    
