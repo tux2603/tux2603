@@ -1,4 +1,4 @@
-# tux2603
+# Owen O'Connor (tux2603)
 
 PhD student and graduate research associate at Tennessee Technological University. Specialization in high performance embedded computing systems with a focus on analog matrix coprocessors. Dabbler in all things hardware and unfinished projects.
 
