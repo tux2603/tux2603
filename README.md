@@ -4,7 +4,7 @@ PhD student and graduate research associate at Tennessee Technological Universit
 
 ## Languages and Technologies
 
-![python icon] ![cplusplus icon] ![c icon] ![verilog icon] ![riscv icon]
+![python icon] ![c icon] ![cplusplus icon] ![verilog icon] ![riscv icon]
 
 ![xilinx icon] ![vscode icon] ![git icon] ![bash icon] ![stm icon]
 
