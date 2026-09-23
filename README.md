@@ -1,14 +1,14 @@
 # tux2603
 
-PhD student and graduate research assistant at Tennessee Technological University. My current interests are HPC and low level hardware design and optimization, which I'm combining for my research. We are currently researching options to greatly increase the power efficiency of large scale data processing in embedded systems, with the end goal of delivering HPC-level performance in a mobile power budget.
+PhD student and graduate research associate at Tennessee Technological University. Specialization in high performance embedded computing systems with a focus on analog matrix coprocessors. Dabbler in all things hardware and unfinished projects.
 
 ## Languages and Technologies
 
-![python icon] ![cplusplus icon] ![c icon] ![java icon] ![js icon]
+![python icon] ![cplusplus icon] ![c icon] ![ icon] ![riscv icon]
 
-![linux icon] ![vscode icon] ![git icon] ![bash icon] ![google icon]
+![ icon] ![vscode icon] ![git icon] ![bash icon] ![stm icon]
 
-![aws icon] ![docker icon] ![github icon] ![jupyter icon] ![rpi icon]
+![linux icon] ![docker icon] ![github icon] ![jupyter icon] ![rpi icon]
 
 
 -----------------------------------
@@ -32,3 +32,7 @@ PhD student and graduate research assistant at Tennessee Technological Universit
 [github icon]: https://raw.githubusercontent.com/tux2603/tux2603/master/icons/github-original.svg "github"
 [jupyter icon]: https://raw.githubusercontent.com/tux2603/tux2603/master/icons/jupyter-original.svg "jupyter"
 [rpi icon]: https://raw.githubusercontent.com/tux2603/tux2603/master/icons/raspberrypi-original.svg "raspberry pi"
+[verilog icon]: https://raw.githubusercontent.com/tux2603/tux2603/master/icons/verilog-original.svg "verilog"
+[riscv icon]: https://raw.githubusercontent.com/tux2603/tux2603/master/icons/riscv-original.svg "RISC-V"
+[xilinx icon]: https://raw.githubusercontent.com/tux2603/tux2603/master/icons/xilinx-original.svg "xilinx"
+[stm icon]: https://raw.githubusercontent.com/tux2603/tux2603/master/icons/stm-original.svg "STMicro"
